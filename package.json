@@ -1,0 +1,17 @@
+{
+  "name": "introdaction_in_jest",
+  "version": "1.0.0",
+  "description": "my first project for writing autotests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Karasevgen1205",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
